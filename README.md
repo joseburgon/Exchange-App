@@ -26,6 +26,7 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
+### App Deployed
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Also you can see the deployed app on Netlify:
+https://exchange-app.netlify.app/
